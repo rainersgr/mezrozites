@@ -7,5 +7,10 @@ img: mezrozisu-un-smilkserksu-ievarijums.jpg
 thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
 alt: image-alt
 category: Ievārījums
-description: Sastāvdaļas - Mežrozīšu biezenis, cukurs. 100 g produkta satur - enerģētisko vērtību 750. Tilpus 250 g.
+description: "<strong>Sastāvdaļas</strong>: mežrozīšu masa, cukurs, cidoniju sula.<br/>
+<br/>
+          <strong>Cena</strong><br>
+          250g 5,00 €<br/>
+          125g 3,50 €<br/>
+          20g 1,00 €"
 ---
