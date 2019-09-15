@@ -7,7 +7,7 @@ img: mezrozisu-un-smilkserksu-ievarijums.jpg
 thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
 alt: image-alt
 category: Ievārījums
-description: Sastāvdaļas : mežrozīšu masa,cukurs
+description: Sastāvdaļas : mežrozīšu masa, cukurs.
 Cena:250 g 5,-EUR
           125g 3,50 EUR
           20 g 1,-EUR
