@@ -1,5 +1,5 @@
 ---
-title: Mežrozīšu ievārījums
+title: Mežrozīšu  un smiltsērkšķu ievārījums
 subtitle: Ievārījums
 layout: default
 modal-id: 1
@@ -7,5 +7,10 @@ img: mezrozisu-un-smilkserksu-ievarijums.jpg
 thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
 alt: image-alt
 category: Ievārījums
-description: Sastāvdaļas - Mežrozīšu biezenis, cukurs. 100 g produkta satur - enerģētisko vērtību 750. Tilpus 250 g.
+description: Sastāvdaļas : mežrozīšu masa,cukurs,smiltsērkšķu sula
+Cena:250 g 5,-EUR
+          125g 3,50 EUR
+          20 g 1,-EUR
+
+
 ---
