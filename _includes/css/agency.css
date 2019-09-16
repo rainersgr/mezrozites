@@ -408,6 +408,8 @@ section h3.section-subheading {
     max-width: 400px;
     height: 120px;
     text-align: center;
+    align-items: center;
+    display: grid;
     background-color: #fff;
 }
 
