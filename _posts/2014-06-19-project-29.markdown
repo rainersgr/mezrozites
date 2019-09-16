@@ -1,11 +1,14 @@
 ---
-title: Mežrozīšu ievārījums
-subtitle: Ievārījums
+title: Tējas Nr.3 Oranžo spēks
+subtitle: Tējas
 layout: default
 modal-id: 1
 img: mezrozisu-un-smilkserksu-ievarijums.jpg
 thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
 alt: image-alt
-category: Ievārījums
-description: Sastāvdaļas - Mežrozīšu biezenis, cukurs. 100 g produkta satur - enerģētisko vērtību 750. Tilpus 250 g.
+category: Tējas
+description: "<strong>Sastāvdaļas</strong>: mežrozītes, žāvēti āboli, žāvētas cidonijas, smiltsēkšķi, citronu miziņas, kardamons, anīss.<br/>
+<br/>
+          <strong>Cena</strong><br>
+          100g 5,00 €<br/>"
 ---

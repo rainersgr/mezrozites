@@ -1,11 +1,13 @@
 ---
-title: Mežrozīšu ievārījums
-subtitle: Ievārījums
+title: Rožu ziedlapiņu ziedūdens
+subtitle: Rožu ziedlapiņu ziedūdens
 layout: default
 modal-id: 1
 img: mezrozisu-un-smilkserksu-ievarijums.jpg
 thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
 alt: image-alt
-category: Ievārījums
-description: Sastāvdaļas - Mežrozīšu biezenis, cukurs. 100 g produkta satur - enerģētisko vērtību 750. Tilpus 250 g.
+category: Rožu ziedlapiņu ziedūdens
+description: "
+          <strong>Cena</strong><br>
+          100ml 6,00 €<br/>"
 ---

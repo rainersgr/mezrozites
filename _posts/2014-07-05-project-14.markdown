@@ -1,11 +1,14 @@
 ---
-title: Mežrozīšu ievārījums
-subtitle: Ievārījums
+title: Ingvera sīrups
+subtitle: Sīrups
 layout: default
 modal-id: 1
 img: mezrozisu-un-smilkserksu-ievarijums.jpg
 thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
 alt: image-alt
-category: Ievārījums
-description: Sastāvdaļas - Mežrozīšu biezenis, cukurs. 100 g produkta satur - enerģētisko vērtību 750. Tilpus 250 g.
+category: Sīrups
+description: "<strong>Sastāvdaļas</strong>: cukurs, ingvera sula.<br/>
+<br/>
+          <strong>Cena</strong><br>
+          330ml 3,50 €<br/>"
 ---

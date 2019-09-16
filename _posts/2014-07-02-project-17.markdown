@@ -1,11 +1,14 @@
 ---
-title: Mežrozīšu ievārījums
-subtitle: Ievārījums
+title: Mežrozīšu un upeņu konfekte
+subtitle: Konfektes
 layout: default
 modal-id: 1
 img: mezrozisu-un-smilkserksu-ievarijums.jpg
 thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
 alt: image-alt
-category: Ievārījums
-description: Sastāvdaļas - Mežrozīšu biezenis, cukurs. 100 g produkta satur - enerģētisko vērtību 750. Tilpus 250 g.
+category: Konfektes
+description: "<strong>Sastāvdaļas</strong>: cukurs, upeņu sula, mežrozīšu pulveris.<br/>
+<br/>
+          <strong>Cena</strong><br>
+          1,00 €<br/>"
 ---

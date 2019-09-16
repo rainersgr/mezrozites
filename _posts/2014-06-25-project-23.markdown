@@ -1,11 +1,14 @@
 ---
-title: Mežrozīšu ievārījums
-subtitle: Ievārījums
+title: Upeņu zefīrs
+subtitle: Zefīri
 layout: default
 modal-id: 1
 img: mezrozisu-un-smilkserksu-ievarijums.jpg
 thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
 alt: image-alt
-category: Ievārījums
-description: Sastāvdaļas - Mežrozīšu biezenis, cukurs. 100 g produkta satur - enerģētisko vērtību 750. Tilpus 250 g.
+category: Zefīri
+description: "<strong>Sastāvdaļas</strong>: cukurs, upeņu masa, citronskābe.<br/>
+<br/>
+          <strong>Cena</strong><br>
+          100g 2,50 €<br/>"
 ---

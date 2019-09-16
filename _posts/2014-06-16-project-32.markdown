@@ -1,11 +1,13 @@
 ---
-title: Mežrozīšu ievārījums
-subtitle: Ievārījums
+title: Kaltētu mežrozīšu augļu tēja
+subtitle: Tējas
 layout: default
 modal-id: 1
 img: mezrozisu-un-smilkserksu-ievarijums.jpg
 thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
 alt: image-alt
-category: Ievārījums
-description: Sastāvdaļas - Mežrozīšu biezenis, cukurs. 100 g produkta satur - enerģētisko vērtību 750. Tilpus 250 g.
+category: Tējas
+description: "
+          <strong>Cena</strong><br>
+          250g 5,00 €<br/>"
 ---

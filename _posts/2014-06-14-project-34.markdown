@@ -1,11 +1,14 @@
 ---
-title: Mežrozīšu ievārījums
-subtitle: Ievārījums
+title: Mežrozīšu, ābolu, bumbieru sula
+subtitle: Sulas
 layout: default
 modal-id: 1
 img: mezrozisu-un-smilkserksu-ievarijums.jpg
 thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
 alt: image-alt
-category: Ievārījums
-description: Sastāvdaļas - Mežrozīšu biezenis, cukurs. 100 g produkta satur - enerģētisko vērtību 750. Tilpus 250 g.
+category: Sulas
+description: "<strong>Sastāvdaļas</strong>: Mežrozīšu biezenis, ābolu sula, bumbieru sula.<br/>
+<br/>
+          <strong>Cena</strong><br>
+          330ml 2,50 €<br/>"
 ---

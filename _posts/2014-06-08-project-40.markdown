@@ -1,11 +1,14 @@
 ---
-title: Mežrozīšu ievārījums
-subtitle: Ievārījums
+title: Rabarberu čatnijs
+subtitle: Čatniji
 layout: default
 modal-id: 1
 img: mezrozisu-un-smilkserksu-ievarijums.jpg
 thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
 alt: image-alt
-category: Ievārījums
-description: Sastāvdaļas - Mežrozīšu biezenis, cukurs. 100 g produkta satur - enerģētisko vērtību 750. Tilpus 250 g.
+category: Čatniji
+description: "<strong>Sastāvdaļas</strong>: Rabarberi, cukurs, rozīnes, baltvīna etiķis, ingvers, sinepju pulveris, sāls, pipari.<br/>
+<br/>
+          <strong>Cena</strong><br>
+          250g 5,00 €<br/>"
 ---
