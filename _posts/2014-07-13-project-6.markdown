@@ -1,5 +1,5 @@
 ---
-title: Mežrozīšu un  apelsīnu ievārījums
+title: Mežrozīšu un apelsīnu ievārījums
 subtitle: Ievārījums
 layout: default
 modal-id: 1

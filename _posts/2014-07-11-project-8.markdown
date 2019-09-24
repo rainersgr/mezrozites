@@ -1,5 +1,5 @@
 ---
-title: Mežrozīšu un  piparmētru ievārījums
+title: Mežrozīšu un piparmētru ievārījums
 subtitle: Ievārījums
 layout: default
 modal-id: 1

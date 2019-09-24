@@ -1,5 +1,5 @@
 ---
-title: Mežrozīšu un  rabarberu ievārījums
+title: Mežrozīšu un rabarberu ievārījums
 subtitle: Ievārījums
 layout: default
 modal-id: 1

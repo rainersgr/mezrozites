@@ -1,5 +1,5 @@
 ---
-title: Mežrozīšu un  upeņu ievārījums
+title: Mežrozīšu un upeņu ievārījums
 subtitle: Ievārījums
 layout: default
 modal-id: 1

@@ -1,5 +1,5 @@
 ---
-title: Mežrozīšu  un smiltsērkšķu ievārījums
+title: Mežrozīšu un smiltsērkšķu ievārījums
 subtitle: Ievārījums
 layout: default
 modal-id: 1

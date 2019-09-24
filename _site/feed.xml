@@ -3,10 +3,10 @@
   <channel>
     <title>Mežrozītes.lv</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 16 Sep 2019 21:25:11 +0300</pubDate>
-    <lastBuildDate>Mon, 16 Sep 2019 21:25:11 +0300</lastBuildDate>
+    <link>https://y7kim.github.io/</link>
+    <atom:link href="https://y7kim.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 24 Sep 2019 16:37:39 +0300</pubDate>
+    <lastBuildDate>Tue, 24 Sep 2019 16:37:39 +0300</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>
 </description>
         <pubDate>Fri, 18 Jul 2014 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/iev%C4%81r%C4%ABjums/2014/07/18/project-1/</link>
-        <guid isPermaLink="true">http://localhost:4000/iev%C4%81r%C4%ABjums/2014/07/18/project-1/</guid>
+        <link>https://y7kim.github.io/iev%C4%81r%C4%ABjums/2014/07/18/project-1/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/iev%C4%81r%C4%ABjums/2014/07/18/project-1/</guid>
         
         
         <category>Ievārījums</category>
@@ -23,12 +23,12 @@
       </item>
     
       <item>
-        <title>Mežrozīšu  un smiltsērkšķu ievārījums</title>
+        <title>Mežrozīšu un smiltsērkšķu ievārījums</title>
         <description>
 </description>
         <pubDate>Thu, 17 Jul 2014 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/iev%C4%81r%C4%ABjums/2014/07/17/project-2/</link>
-        <guid isPermaLink="true">http://localhost:4000/iev%C4%81r%C4%ABjums/2014/07/17/project-2/</guid>
+        <link>https://y7kim.github.io/iev%C4%81r%C4%ABjums/2014/07/17/project-2/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/iev%C4%81r%C4%ABjums/2014/07/17/project-2/</guid>
         
         
         <category>Ievārījums</category>
@@ -36,12 +36,12 @@
       </item>
     
       <item>
-        <title>Mežrozīšu  un cidoniju ievārījums</title>
+        <title>Mežrozīšu un cidoniju ievārījums</title>
         <description>
 </description>
         <pubDate>Wed, 16 Jul 2014 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/iev%C4%81r%C4%ABjums/2014/07/16/project-3/</link>
-        <guid isPermaLink="true">http://localhost:4000/iev%C4%81r%C4%ABjums/2014/07/16/project-3/</guid>
+        <link>https://y7kim.github.io/iev%C4%81r%C4%ABjums/2014/07/16/project-3/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/iev%C4%81r%C4%ABjums/2014/07/16/project-3/</guid>
         
         
         <category>Ievārījums</category>
@@ -53,8 +53,8 @@
         <description>
 </description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/iev%C4%81r%C4%ABjums/2014/07/15/project-4/</link>
-        <guid isPermaLink="true">http://localhost:4000/iev%C4%81r%C4%ABjums/2014/07/15/project-4/</guid>
+        <link>https://y7kim.github.io/iev%C4%81r%C4%ABjums/2014/07/15/project-4/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/iev%C4%81r%C4%ABjums/2014/07/15/project-4/</guid>
         
         
         <category>Ievārījums</category>
@@ -62,12 +62,12 @@
       </item>
     
       <item>
-        <title>Mežrozīšu un  rabarberu ievārījums</title>
+        <title>Mežrozīšu un rabarberu ievārījums</title>
         <description>
 </description>
         <pubDate>Mon, 14 Jul 2014 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/iev%C4%81r%C4%ABjums/2014/07/14/project-5/</link>
-        <guid isPermaLink="true">http://localhost:4000/iev%C4%81r%C4%ABjums/2014/07/14/project-5/</guid>
+        <link>https://y7kim.github.io/iev%C4%81r%C4%ABjums/2014/07/14/project-5/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/iev%C4%81r%C4%ABjums/2014/07/14/project-5/</guid>
         
         
         <category>Ievārījums</category>
@@ -75,12 +75,12 @@
       </item>
     
       <item>
-        <title>Mežrozīšu un  apelsīnu ievārījums</title>
+        <title>Mežrozīšu un apelsīnu ievārījums</title>
         <description>
 </description>
         <pubDate>Sun, 13 Jul 2014 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/iev%C4%81r%C4%ABjums/2014/07/13/project-6/</link>
-        <guid isPermaLink="true">http://localhost:4000/iev%C4%81r%C4%ABjums/2014/07/13/project-6/</guid>
+        <link>https://y7kim.github.io/iev%C4%81r%C4%ABjums/2014/07/13/project-6/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/iev%C4%81r%C4%ABjums/2014/07/13/project-6/</guid>
         
         
         <category>Ievārījums</category>
@@ -88,12 +88,12 @@
       </item>
     
       <item>
-        <title>Mežrozīšu un  pīlādžu ievārījums</title>
+        <title>Mežrozīšu un pīlādžu ievārījums</title>
         <description>
 </description>
         <pubDate>Sat, 12 Jul 2014 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/iev%C4%81r%C4%ABjums/2014/07/12/project-7/</link>
-        <guid isPermaLink="true">http://localhost:4000/iev%C4%81r%C4%ABjums/2014/07/12/project-7/</guid>
+        <link>https://y7kim.github.io/iev%C4%81r%C4%ABjums/2014/07/12/project-7/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/iev%C4%81r%C4%ABjums/2014/07/12/project-7/</guid>
         
         
         <category>Ievārījums</category>
@@ -101,12 +101,12 @@
       </item>
     
       <item>
-        <title>Mežrozīšu un  piparmētru ievārījums</title>
+        <title>Mežrozīšu un piparmētru ievārījums</title>
         <description>
 </description>
         <pubDate>Fri, 11 Jul 2014 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/iev%C4%81r%C4%ABjums/2014/07/11/project-8/</link>
-        <guid isPermaLink="true">http://localhost:4000/iev%C4%81r%C4%ABjums/2014/07/11/project-8/</guid>
+        <link>https://y7kim.github.io/iev%C4%81r%C4%ABjums/2014/07/11/project-8/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/iev%C4%81r%C4%ABjums/2014/07/11/project-8/</guid>
         
         
         <category>Ievārījums</category>
@@ -114,12 +114,12 @@
       </item>
     
       <item>
-        <title>Mežrozīšu un  upeņu ievārījums</title>
+        <title>Mežrozīšu un upeņu ievārījums</title>
         <description>
 </description>
         <pubDate>Thu, 10 Jul 2014 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/iev%C4%81r%C4%ABjums/2014/07/10/project-9/</link>
-        <guid isPermaLink="true">http://localhost:4000/iev%C4%81r%C4%ABjums/2014/07/10/project-9/</guid>
+        <link>https://y7kim.github.io/iev%C4%81r%C4%ABjums/2014/07/10/project-9/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/iev%C4%81r%C4%ABjums/2014/07/10/project-9/</guid>
         
         
         <category>Ievārījums</category>
@@ -127,12 +127,12 @@
       </item>
     
       <item>
-        <title>Mežrozīšu un  ingvera ievārījums</title>
+        <title>Mežrozīšu un ingvera ievārījums</title>
         <description>
 </description>
         <pubDate>Wed, 09 Jul 2014 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/iev%C4%81r%C4%ABjums/2014/07/09/project-10/</link>
-        <guid isPermaLink="true">http://localhost:4000/iev%C4%81r%C4%ABjums/2014/07/09/project-10/</guid>
+        <link>https://y7kim.github.io/iev%C4%81r%C4%ABjums/2014/07/09/project-10/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/iev%C4%81r%C4%ABjums/2014/07/09/project-10/</guid>
         
         
         <category>Ievārījums</category>
