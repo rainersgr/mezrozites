@@ -2,7 +2,7 @@
 title: Mežrozīšu, ābolu, bumbieru, zemeņu sula
 subtitle: Sulas
 layout: default
-modal-id: 1
+modal-id: 33
 img: mezrozisu-un-smilkserksu-ievarijums.jpg
 thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
 alt: image-alt

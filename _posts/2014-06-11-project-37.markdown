@@ -1,8 +1,8 @@
 ---
-title: Mežrozīšu, ābolu, bumbieru, aveņu, burkānu sula 
+title: Mežrozīšu, ābolu, bumbieru, aveņu, burkānu sula
 subtitle: Sulas
 layout: default
-modal-id: 1
+modal-id: 35
 img: mezrozisu-un-smilkserksu-ievarijums.jpg
 thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
 alt: image-alt

@@ -2,7 +2,7 @@
 title: Rožu ziedlapiņu ziedūdens
 subtitle: Rožu ziedlapiņu ziedūdens
 layout: default
-modal-id: 1
+modal-id: 39
 img: mezrozisu-un-smilkserksu-ievarijums.jpg
 thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
 alt: image-alt

@@ -2,7 +2,7 @@
 title: Tējas Nr.3 Oranžo spēks
 subtitle: Tējas
 layout: default
-modal-id: 1
+modal-id: 28
 img: mezrozisu-un-smilkserksu-ievarijums.jpg
 thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
 alt: image-alt

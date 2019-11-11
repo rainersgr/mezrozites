@@ -2,7 +2,7 @@
 title: Tējas Nr.2 Ziemassvētku noskaņa
 subtitle: Tējas
 layout: default
-modal-id: 1
+modal-id: 27
 img: mezrozisu-un-smilkserksu-ievarijums.jpg
 thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
 alt: image-alt

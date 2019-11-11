@@ -2,7 +2,7 @@
 title: Upeņu zefīrs
 subtitle: Zefīri
 layout: default
-modal-id: 1
+modal-id: 22
 img: mezrozisu-un-smilkserksu-ievarijums.jpg
 thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
 alt: image-alt

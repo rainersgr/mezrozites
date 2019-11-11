@@ -2,7 +2,7 @@
 title: Tējas Nr.4 Sildošā Tēja
 subtitle: Tējas
 layout: default
-modal-id: 1
+modal-id: 29
 img: mezrozisu-un-smilkserksu-ievarijums.jpg
 thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
 alt: image-alt

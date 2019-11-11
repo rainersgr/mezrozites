@@ -2,7 +2,7 @@
 title: Kaltētu mežrozīšu augļu un pīlādžu tēja
 subtitle: Tējas
 layout: default
-modal-id: 1
+modal-id: 31
 img: mezrozisu-un-smilkserksu-ievarijums.jpg
 thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
 alt: image-alt

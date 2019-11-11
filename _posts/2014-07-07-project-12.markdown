@@ -2,8 +2,8 @@
 title: Mežrozīšu sīrups
 subtitle: Sīrups
 layout: default
-modal-id: 1
-img: mezrozisu-un-smilkserksu-ievarijums.jpg
+modal-id: 12
+img: Mežrozīšu-sīrups.jpg
 thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
 alt: image-alt
 category: Sīrups

@@ -2,7 +2,7 @@
 title: Mežrozīšu un cidoniju sīrups
 subtitle: Sīrups
 layout: default
-modal-id: 1
+modal-id: 13
 img: mezrozisu-un-smilkserksu-ievarijums.jpg
 thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
 alt: image-alt
