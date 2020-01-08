@@ -3,10 +3,10 @@ title: Mežrozīšu ievārījums
 subtitle: Ievārījums
 layout: default
 modal-id: 1
-img: mezrozisu-un-smilkserksu-ievarijums.jpg
-thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
+img: mezrozisu-ievarijums.jpg
+thumbnail: mezrozisu-ievarijums-thumbnail.jpg
 alt: image-alt
-category: Ievārījums
+category: Ievarijums
 description: "<strong>Sastāvdaļas</strong>: mežrozīšu masa, cukurs.<br/>
 <br/>
           <strong>Cena</strong><br>

@@ -6,7 +6,7 @@ modal-id: 39
 img: mezrozisu-un-smilkserksu-ievarijums.jpg
 thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
 alt: image-alt
-category: Rožu ziedlapiņu ziedūdens
+category: Rozu ziedlapinu ziedudens
 description: "
           <strong>Cena</strong><br>
           100ml 6,00 €<br/>"

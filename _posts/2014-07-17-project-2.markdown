@@ -3,10 +3,10 @@ title: Mežrozīšu un smiltsērkšķu ievārījums
 subtitle: Ievārījums
 layout: default
 modal-id: 2
-img: mežrozīšu-un-smiltsērkšķu-ievāruījums.jpg
-thumbnail: mežrozīšu-un-smiltsērkšķu-ievāruījums.jpg
+img: mezrozisu-un-smiltserksu-ievarijums.jpg
+thumbnail: mezrozisu-un-smiltserksu-ievarijums-thumbnail.jpg
 alt: image-alt
-category: Ievārījums
+category: Ievarijums
 description: "<strong>Sastāvdaļas</strong>: mežrozīšu masa, cukurs, smiltsērkšķu sula.<br/>
 <br/>
           <strong>Cena</strong><br>

@@ -6,7 +6,7 @@ modal-id: 28
 img: mezrozisu-un-smilkserksu-ievarijums.jpg
 thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
 alt: image-alt
-category: Tējas
+category: Tejas
 description: "<strong>Sastāvdaļas</strong>: mežrozītes, žāvēti āboli, žāvētas cidonijas, smiltsēkšķi, citronu miziņas, kardamons, anīss.<br/>
 <br/>
           <strong>Cena</strong><br>

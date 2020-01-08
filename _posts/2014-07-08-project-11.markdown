@@ -6,7 +6,7 @@ modal-id: 11
 img: mezrozisu-un-smilkserksu-ievarijums.jpg
 thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
 alt: image-alt
-category: Ievārījums
+category: Ievarijums
 description: "<strong>Sastāvdaļas</strong>: upenes, āboli, cukurs, kanēļa standziņa, apelsīna miziņa, apelsīna sula, krustnagliņas.<br/>
 <br/>
           <strong>Cena</strong><br>

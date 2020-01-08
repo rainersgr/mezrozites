@@ -6,7 +6,7 @@ modal-id: 13
 img: mezrozisu-un-smilkserksu-ievarijums.jpg
 thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
 alt: image-alt
-category: Sīrups
+category: Sirups
 description: "<strong>Sastāvdaļas</strong>: cukurs, mežrozīšu ekstrakts.<br/>
 <br/>
           <strong>Cena</strong><br>

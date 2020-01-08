@@ -6,7 +6,7 @@ modal-id: 20
 img: mezrozisu-un-smilkserksu-ievarijums.jpg
 thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
 alt: image-alt
-category: Zefīri
+category: Zefiri
 description: "<strong>Sastāvdaļas</strong>: cukurs, ābolu masa, citronskābe.<br/>
 <br/>
           <strong>Cena</strong><br>

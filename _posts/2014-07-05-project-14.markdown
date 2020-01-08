@@ -6,7 +6,7 @@ modal-id: 14
 img: mezrozisu-un-smilkserksu-ievarijums.jpg
 thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
 alt: image-alt
-category: Sīrups
+category: Sirups
 description: "<strong>Sastāvdaļas</strong>: cukurs, ingvera sula.<br/>
 <br/>
           <strong>Cena</strong><br>

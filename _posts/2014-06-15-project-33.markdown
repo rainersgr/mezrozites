@@ -6,7 +6,7 @@ modal-id: 31
 img: mezrozisu-un-smilkserksu-ievarijums.jpg
 thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
 alt: image-alt
-category: Tējas
+category: Tejas
 description: "
           <strong>Cena</strong><br>
           250g 5,00 €<br/>"

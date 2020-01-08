@@ -6,7 +6,7 @@ modal-id: 38
 img: mezrozisu-un-smilkserksu-ievarijums.jpg
 thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
 alt: image-alt
-category: Mežrozīšu pulveris
+category: Mezrozisu pulveris
 description: "<strong>Sastāvdaļas</strong>: Maltas mežrozītes 100%.<br/>
 <br/>
           <strong>Cena</strong><br>
