@@ -3,8 +3,8 @@ title: Mežrozīšu sīrups
 subtitle: Sīrups
 layout: default
 modal-id: 12
-img: Mežrozīšu-sīrups.jpg
-thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
+img: mezrozisu-sirups.jpg
+thumbnail: mezrozisu-sirups-thumbnail.jpg
 alt: image-alt
 category: Sirups
 description: "<strong>Sastāvdaļas</strong>: cukurs, mežrozīšu ekstrakts.<br/>

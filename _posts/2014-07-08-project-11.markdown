@@ -3,8 +3,8 @@ title: Ziemassvētku ievārījums
 subtitle: Ievārījums
 layout: default
 modal-id: 11
-img: mezrozisu-un-smilkserksu-ievarijums.jpg
-thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
+img: ziemassvetku-ievarijums.jpg
+thumbnail: ziemassvetku-ievarijums-thumbnail.jpg
 alt: image-alt
 category: Ievarijums
 description: "<strong>Sastāvdaļas</strong>: upenes, āboli, cukurs, kanēļa standziņa, apelsīna miziņa, apelsīna sula, krustnagliņas.<br/>

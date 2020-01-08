@@ -3,8 +3,8 @@ title: Tējas Nr.2 Ziemassvētku noskaņa
 subtitle: Tējas
 layout: default
 modal-id: 27
-img: mezrozisu-un-smilkserksu-ievarijums.jpg
-thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
+img: mezrozisu-teja-nr2.jpg
+thumbnail: mezrozisu-teja-nr2-thumbnail.jpg
 alt: image-alt
 category: Tejas
 description: "<strong>Sastāvdaļas</strong>: mežrozītes, žāvēti āboli, žāvētas cidonijas, ziemassvētku garšvielas - kanēlis, krustnagliņas.<br/>

@@ -3,8 +3,8 @@ title: Zemeņu zefīrs
 subtitle: Zefīri
 layout: default
 modal-id: 24
-img: mezrozisu-un-smilkserksu-ievarijums.jpg
-thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
+img: zemenu-zefirs.jpg
+thumbnail: zemenu-zefirs-thumbnail.jpg
 alt: image-alt
 category: Zefiri
 description: "<strong>Sastāvdaļas</strong>: cukurs, zemeņu masa, citronskābe.<br/>

@@ -3,8 +3,8 @@ title: Mežrozīšu un apelsīnu ievārījums
 subtitle: Ievārījums
 layout: default
 modal-id: 6
-img: mezrozisu-un-smilkserksu-ievarijums.jpg
-thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
+img: mezrozisu-un-apelsinu-ievarijums.jpg
+thumbnail: mezrozisu-un-apelsinu-ievarijums-thumbnail.jpg
 alt: image-alt
 category: Ievarijums
 description: "<strong>Sastāvdaļas</strong>: Mežrozīšu biezenis, cukurs, apelsīnu sula, kardamons, kanēlis, krustnagliņas, apelsīnu miziņas.<br/>

@@ -3,8 +3,8 @@ title: Aveņu zefīrs
 subtitle: Zefīri
 layout: default
 modal-id: 25
-img: mezrozisu-un-smilkserksu-ievarijums.jpg
-thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
+img: avenu-zefirs.jpg
+thumbnail: avenu-zefirs-thumbnail.jpg
 alt: image-alt
 category: Zefiri
 description: "<strong>Sastāvdaļas</strong>: cukurs, aveņu masa, citronskābe.<br/>

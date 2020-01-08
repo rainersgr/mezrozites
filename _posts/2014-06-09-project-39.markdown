@@ -3,8 +3,8 @@ title: Mežrozīšu čatnijs
 subtitle: Čatniji
 layout: default
 modal-id: 37
-img: mezrozisu-un-smilkserksu-ievarijums.jpg
-thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
+img: mezrozites-catnijs.jpg
+thumbnail: mezrozites-catnijs-thumbnail.jpg
 alt: image-alt
 category: catniji
 description: "<strong>Sastāvdaļas</strong>: Mežrozīšu biezenis, sīpoli, čili pipari, pūdercukurs, ābolu etiķis, sāls, pipari.<br/>

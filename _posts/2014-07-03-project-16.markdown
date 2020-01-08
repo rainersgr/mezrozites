@@ -3,8 +3,8 @@ title: Mežrozīšu un aveņu konfekte
 subtitle: Konfektes
 layout: default
 modal-id: 16
-img: mezrozisu-un-smilkserksu-ievarijums.jpg
-thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
+img: konfekte.jpg
+thumbnail: konfekte-thumbnail.jpg
 alt: image-alt
 category: Konfektes
 description: "<strong>Sastāvdaļas</strong>: cukurs, aveņu sula, mežrozīšu pulveris.<br/>

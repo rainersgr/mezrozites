@@ -3,8 +3,8 @@ title: Ābolu zefīrs
 subtitle: Zefīri
 layout: default
 modal-id: 20
-img: mezrozisu-un-smilkserksu-ievarijums.jpg
-thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
+img: abolu-zefirs.jpg
+thumbnail: abolu-zefirs-thumbnail.jpg
 alt: image-alt
 category: Zefiri
 description: "<strong>Sastāvdaļas</strong>: cukurs, ābolu masa, citronskābe.<br/>

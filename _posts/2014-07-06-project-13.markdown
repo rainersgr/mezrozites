@@ -3,8 +3,8 @@ title: Mežrozīšu un cidoniju sīrups
 subtitle: Sīrups
 layout: default
 modal-id: 13
-img: mezrozisu-un-smilkserksu-ievarijums.jpg
-thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
+img: mezrozisu-un-cidoniju-sirups.jpg
+thumbnail: Mezrozisu-un-cidoniju-sirups-thumbnail.jpg
 alt: image-alt
 category: Sirups
 description: "<strong>Sastāvdaļas</strong>: cukurs, mežrozīšu ekstrakts.<br/>

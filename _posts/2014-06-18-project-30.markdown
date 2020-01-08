@@ -3,8 +3,8 @@ title: Tējas Nr.4 Sildošā Tēja
 subtitle: Tējas
 layout: default
 modal-id: 29
-img: mezrozisu-un-smilkserksu-ievarijums.jpg
-thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
+img: mezrozisu-teja-nr4.jpg
+thumbnail: mezrozisu-teja-nr4-thumbnail.jpg
 alt: image-alt
 category: Tejas
 description: "<strong>Sastāvdaļas</strong>: mežrozītes, žāvēti āboli, žāvētas cidonijas, ingvers.<br/>

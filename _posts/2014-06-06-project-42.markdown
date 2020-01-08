@@ -3,8 +3,8 @@ title: Mežrozīšu pulveris
 subtitle: Mežrozīšu pulveris
 layout: default
 modal-id: 38
-img: mezrozisu-un-smilkserksu-ievarijums.jpg
-thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
+img: mezrozites-pulveris.jpg
+thumbnail: mezrozites-pulveris-thumbnail.jpg
 alt: image-alt
 category: Mezrozisu pulveris
 description: "<strong>Sastāvdaļas</strong>: Maltas mežrozītes 100%.<br/>

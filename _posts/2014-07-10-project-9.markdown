@@ -3,8 +3,8 @@ title: Mežrozīšu un upeņu ievārījums
 subtitle: Ievārījums
 layout: default
 modal-id: 9
-img: mezrozisu-un-smilkserksu-ievarijums.jpg
-thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
+img: mezrozisu-un-upenu-ievarijums.jpg
+thumbnail: mezrozisu-un-upenu-ievarijums-thumbnail.jpg
 alt: image-alt
 category: Ievarijums
 description: "<strong>Sastāvdaļas</strong>: Mežrozīšu biezenis, upeņu biezenis, cukurs<br/>

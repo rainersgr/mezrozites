@@ -3,8 +3,8 @@ title: Mežrozīšu un cidoniju ievārījums
 subtitle: Ievārījums
 layout: default
 modal-id: 3
-img: mezrozisu-un-smilkserksu-ievarijums.jpg
-thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
+img: mezrozisu-un-cidoniju-ievarijums.jpg
+thumbnail: mezrozisu-un-cidoniju-ievarijums-thumbnail.jpg
 alt: image-alt
 category: Ievarijums
 description: "<strong>Sastāvdaļas</strong>: mežrozīšu masa, cukurs, cidoniju sula.<br/>

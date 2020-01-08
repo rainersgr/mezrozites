@@ -3,8 +3,8 @@ title: Melleņu zefīrs
 subtitle: Zefīri
 layout: default
 modal-id: 21
-img: mezrozisu-un-smilkserksu-ievarijums.jpg
-thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
+img: mellenu-zefirs.jpg
+thumbnail: mellenu-zefirs-thumbnail.jpg
 alt: image-alt
 category: Zefiri
 description: "<strong>Sastāvdaļas</strong>: cukurs, melleņu masa, citronskābe.<br/>

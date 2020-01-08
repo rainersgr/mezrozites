@@ -3,8 +3,8 @@ title: Mežrozīšu un rabarberu ievārījums
 subtitle: Ievārījums
 layout: default
 modal-id: 5
-img: mezrozisu-un-smilkserksu-ievarijums.jpg
-thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
+img: mezrozisu-un-rabarberu-ievarijums.jpg
+thumbnail: Mezrozisu-un-rabarberu-ievarijums-thumbnail.jpg
 alt: image-alt
 category: Ievarijums
 description: "<strong>Sastāvdaļas</strong>: mežrozīšu masa, cukurs, rabarberu  sula.<br/>

@@ -3,8 +3,8 @@ title: Mežrozīšu un jāņogu ievārījums
 subtitle: Ievārījums
 layout: default
 modal-id: 4
-img: mezrozisu-un-smilkserksu-ievarijums.jpg
-thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
+img: mezrozisu-un-janogu-ievarijums.jpg
+thumbnail: Mezrozisu-un-janogu-ievarijums-thumbnail.jpg
 alt: image-alt
 category: Ievarijums
 description: "<strong>Sastāvdaļas</strong>: mežrozīšu masa, cukurs, jāņogu sula.<br/>

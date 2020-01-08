@@ -3,8 +3,8 @@ title: Ingvera sīrups
 subtitle: Sīrups
 layout: default
 modal-id: 14
-img: mezrozisu-un-smilkserksu-ievarijums.jpg
-thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
+img: ingvera-sirups.jpg
+thumbnail: ingvera-sirups-thumbnail.jpg
 alt: image-alt
 category: Sirups
 description: "<strong>Sastāvdaļas</strong>: cukurs, ingvera sula.<br/>

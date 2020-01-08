@@ -3,8 +3,8 @@ title: Tēja Nr.1 Draugu tēja
 subtitle: Tējas
 layout: default
 modal-id: 26
-img: mezrozisu-un-smilkserksu-ievarijums.jpg
-thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
+img: mezrozisu-teja-nr1.jpg
+thumbnail: mezrozisu-teja-nr1-thumbnail.jpg
 alt: image-alt
 category: Tejas
 description: "<strong>Sastāvdaļas</strong>: mežrozītes, žāvēti āboli, žāvētas cidonijas, žāvēti rabarberi, žāvētas apelsīnu mizas, rozīnes.<br/>

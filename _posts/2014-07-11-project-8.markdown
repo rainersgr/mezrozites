@@ -3,8 +3,8 @@ title: Mežrozīšu un piparmētru ievārījums
 subtitle: Ievārījums
 layout: default
 modal-id: 8
-img: mezrozisu-un-smilkserksu-ievarijums.jpg
-thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
+img: mezrozisu-un-piparmetru-ievarijums.jpg
+thumbnail: mezrozisu-un-piparmetru-ievarijums-thumbnail.jpg
 alt: image-alt
 category: Ievarijums
 description: "<strong>Sastāvdaļas</strong>: Mežrozīšu biezenis , piparmētras, cukurs, laima sula, laima miziņas.<br/>

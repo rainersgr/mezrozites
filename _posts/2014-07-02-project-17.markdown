@@ -3,8 +3,8 @@ title: Mežrozīšu un upeņu konfekte
 subtitle: Konfektes
 layout: default
 modal-id: 17
-img: mezrozisu-un-smilkserksu-ievarijums.jpg
-thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
+img: konfekte.jpg
+thumbnail: konfekte-thumbnail.jpg
 alt: image-alt
 category: Konfektes
 description: "<strong>Sastāvdaļas</strong>: cukurs, upeņu sula, mežrozīšu pulveris.<br/>

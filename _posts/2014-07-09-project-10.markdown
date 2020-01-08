@@ -3,8 +3,8 @@ title: Mežrozīšu un ingvera ievārījums
 subtitle: Ievārījums
 layout: default
 modal-id: 10
-img: mezrozisu-un-smilkserksu-ievarijums.jpg
-thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
+img: mezrozisu-un-ingvera-ievarijums.jpg
+thumbnail: mezrozisu-un-ingvera-ievarijums-thumbnail.jpg
 alt: image-alt
 category: Ievarijums
 description: "<strong>Sastāvdaļas</strong>: Mežrozīšu biezenis, cukurs, citrona sula, rīvēts ingvers.<br/>

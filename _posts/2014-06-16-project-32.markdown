@@ -3,8 +3,8 @@ title: Kaltētu mežrozīšu augļu tēja
 subtitle: Tējas
 layout: default
 modal-id: 30
-img: mezrozisu-un-smilkserksu-ievarijums.jpg
-thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
+img: mezrozisu-auglu-teja.jpg
+thumbnail: mezrozisu-auglu-teja-thumbnail.jpg
 alt: image-alt
 category: Tejas
 description: "

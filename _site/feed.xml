@@ -3,10 +3,10 @@
   <channel>
     <title>Mežrozītes.lv</title>
     <description>Mezrozites.lv</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 08 Jan 2020 17:34:41 +0200</pubDate>
-    <lastBuildDate>Wed, 08 Jan 2020 17:34:41 +0200</lastBuildDate>
+    <link>https://y7kim.github.io/</link>
+    <atom:link href="https://y7kim.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 08 Jan 2020 20:00:41 +0200</pubDate>
+    <lastBuildDate>Wed, 08 Jan 2020 20:00:41 +0200</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>
 </description>
         <pubDate>Fri, 18 Jul 2014 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/ievarijums/2014/07/18/project-1/</link>
-        <guid isPermaLink="true">http://localhost:4000/ievarijums/2014/07/18/project-1/</guid>
+        <link>https://y7kim.github.io/ievarijums/2014/07/18/project-1/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/ievarijums/2014/07/18/project-1/</guid>
         
         
         <category>Ievarijums</category>
@@ -27,8 +27,8 @@
         <description>
 </description>
         <pubDate>Thu, 17 Jul 2014 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/ievarijums/2014/07/17/project-2/</link>
-        <guid isPermaLink="true">http://localhost:4000/ievarijums/2014/07/17/project-2/</guid>
+        <link>https://y7kim.github.io/ievarijums/2014/07/17/project-2/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/ievarijums/2014/07/17/project-2/</guid>
         
         
         <category>Ievarijums</category>
@@ -40,8 +40,8 @@
         <description>
 </description>
         <pubDate>Wed, 16 Jul 2014 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/ievarijums/2014/07/16/project-3/</link>
-        <guid isPermaLink="true">http://localhost:4000/ievarijums/2014/07/16/project-3/</guid>
+        <link>https://y7kim.github.io/ievarijums/2014/07/16/project-3/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/ievarijums/2014/07/16/project-3/</guid>
         
         
         <category>Ievarijums</category>
@@ -53,8 +53,8 @@
         <description>
 </description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/ievarijums/2014/07/15/project-4/</link>
-        <guid isPermaLink="true">http://localhost:4000/ievarijums/2014/07/15/project-4/</guid>
+        <link>https://y7kim.github.io/ievarijums/2014/07/15/project-4/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/ievarijums/2014/07/15/project-4/</guid>
         
         
         <category>Ievarijums</category>
@@ -66,8 +66,8 @@
         <description>
 </description>
         <pubDate>Mon, 14 Jul 2014 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/ievarijums/2014/07/14/project-5/</link>
-        <guid isPermaLink="true">http://localhost:4000/ievarijums/2014/07/14/project-5/</guid>
+        <link>https://y7kim.github.io/ievarijums/2014/07/14/project-5/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/ievarijums/2014/07/14/project-5/</guid>
         
         
         <category>Ievarijums</category>
@@ -79,8 +79,8 @@
         <description>
 </description>
         <pubDate>Sun, 13 Jul 2014 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/ievarijums/2014/07/13/project-6/</link>
-        <guid isPermaLink="true">http://localhost:4000/ievarijums/2014/07/13/project-6/</guid>
+        <link>https://y7kim.github.io/ievarijums/2014/07/13/project-6/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/ievarijums/2014/07/13/project-6/</guid>
         
         
         <category>Ievarijums</category>
@@ -92,8 +92,8 @@
         <description>
 </description>
         <pubDate>Sat, 12 Jul 2014 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/ievarijums/2014/07/12/project-7/</link>
-        <guid isPermaLink="true">http://localhost:4000/ievarijums/2014/07/12/project-7/</guid>
+        <link>https://y7kim.github.io/ievarijums/2014/07/12/project-7/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/ievarijums/2014/07/12/project-7/</guid>
         
         
         <category>Ievarijums</category>
@@ -105,8 +105,8 @@
         <description>
 </description>
         <pubDate>Fri, 11 Jul 2014 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/ievarijums/2014/07/11/project-8/</link>
-        <guid isPermaLink="true">http://localhost:4000/ievarijums/2014/07/11/project-8/</guid>
+        <link>https://y7kim.github.io/ievarijums/2014/07/11/project-8/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/ievarijums/2014/07/11/project-8/</guid>
         
         
         <category>Ievarijums</category>
@@ -118,8 +118,8 @@
         <description>
 </description>
         <pubDate>Thu, 10 Jul 2014 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/ievarijums/2014/07/10/project-9/</link>
-        <guid isPermaLink="true">http://localhost:4000/ievarijums/2014/07/10/project-9/</guid>
+        <link>https://y7kim.github.io/ievarijums/2014/07/10/project-9/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/ievarijums/2014/07/10/project-9/</guid>
         
         
         <category>Ievarijums</category>
@@ -131,8 +131,8 @@
         <description>
 </description>
         <pubDate>Wed, 09 Jul 2014 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/ievarijums/2014/07/09/project-10/</link>
-        <guid isPermaLink="true">http://localhost:4000/ievarijums/2014/07/09/project-10/</guid>
+        <link>https://y7kim.github.io/ievarijums/2014/07/09/project-10/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/ievarijums/2014/07/09/project-10/</guid>
         
         
         <category>Ievarijums</category>

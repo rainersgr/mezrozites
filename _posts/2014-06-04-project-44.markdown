@@ -3,8 +3,8 @@ title: Rožu ziedlapiņu ziedūdens
 subtitle: Rožu ziedlapiņu ziedūdens
 layout: default
 modal-id: 39
-img: mezrozisu-un-smilkserksu-ievarijums.jpg
-thumbnail: mezrozisu-un-smilkserksu--thumbnail.jpg
+img: rozu-ziedudens.jpg
+thumbnail: rozu-ziedudens-thumbnail.jpg
 alt: image-alt
 category: Rozu ziedlapinu ziedudens
 description: "
