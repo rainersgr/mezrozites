@@ -3,7 +3,7 @@ url: https://y7kim.github.io
 
 # Site settings
 title: Mežrozītes.lv
-email: perah18549@top-email.org
+email: info@rozulade.lv
 description: "Mezrozites.lv"
 
 
@@ -44,10 +44,10 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+  - title: instagram
+    url: https://www.instagram.com/mezrozites/
   - title: facebook
-    url:
+    url: https://www.facebook.com/Mezrozites.lv
 
 # Postal address (add as many lines as necessary)
 address:
